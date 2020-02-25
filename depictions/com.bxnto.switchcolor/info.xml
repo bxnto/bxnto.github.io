@@ -1,0 +1,38 @@
+<package>
+	<id>com.bxnto.switchcolor</id>
+	<name>SwitchColors</name>
+	<version>1.0.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common</package>
+	</dependencies>
+	<shortDescription>Customize all elements of the switches! Requires libsparkcolourpicker and Cephie.</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 12 and above including arm64e (XR,XS,11)</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Example</description>
+			<image>4M4uVkM.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Preferences</description>
+			<image>A0yAlp4.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>First Release</change>
+		<change>Initial</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
