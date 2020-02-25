@@ -8,11 +8,11 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common</package>
+		<package>mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common</package>
 	</dependencies>
-	<shortDescription>Customize all elements of the switches! Requires libsparkcolourpicker and Cephie.</shortDescription>
+	<shortDescription>Customize all elements of the switches!</shortDescription>
 	<descriptionlist>
-		<description>Supports iOS 12 and above including arm64e (XR,XS,11)</description>
+		<description>Supports iOS 12 and above including arm64e (XR,XS,11).</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
